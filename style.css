@@ -24,3 +24,35 @@ body {
     text-transform: uppercase;
 
 }
+.categories img {
+    width: 100px;
+}
+.cat-1,
+.cat-2,
+.cat-3 {
+    padding: 15px 30px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.cat-1 {
+    background: orange;
+}
+.cat-2 {
+    background: rebeccapurple;
+}
+.cat-3 {
+    background: blue;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#contact{
+    min-height: 300px;
+    border-radius: 10px;
+   
+}
+footer {
+    text-align: center;
+}
